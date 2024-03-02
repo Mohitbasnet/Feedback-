@@ -1,0 +1,48 @@
+/* styles.css */
+
+/* Reset some default styles for better consistency */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+input[type="file"] {
+    display: none; /* Hide the file input visually */
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+/* Style the button when hovered */
+button:hover {
+    background-color: #2980b9;
+}
+
+/* Style the button when clicked */
+button:active {
+    background-color: #1f618d;
+}
+
+/* Center the button and file input horizontally */
+button,
+input[type="file"] {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Add some space between the button and file input */
+button {
+    margin-bottom: 20px;
+}

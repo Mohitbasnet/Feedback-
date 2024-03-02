@@ -1,0 +1,30 @@
+/* styles.css */
+
+/* Style for the review list */
+ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+  }
+  
+  li:last-child {
+    margin-bottom: 0;
+  }
+  
+  /* Style for the review user name */
+  li span {
+    font-weight: bold;
+  }
+  
+  /* Style for the rating */
+  li em {
+    font-style: italic;
+    color: #888;
+  }
+  
