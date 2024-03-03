@@ -49,6 +49,9 @@ This Django project aims to create a web application for collecting user feedbac
 - Database Design and Models
 - Management of Static Files
 
+## Projec video link
+https://drive.google.com/file/d/1SyEAQ3lLTGEe8vBAjM9tub0uKLSeUPRc/view?usp=sharing
+
 ## Contributing
 
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
