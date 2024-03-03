@@ -31,8 +31,6 @@ This Django project aims to create a web application for collecting user feedbac
 
    - python manage.py runserver
 
-7. Access the application via your web browser at [http://localhost:8000/](http://localhost:8000/).
-
 ## Features
 
 - Submit and view user profiles
